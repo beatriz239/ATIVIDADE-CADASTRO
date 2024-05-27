@@ -1,0 +1,47 @@
+body{
+    background-color: #eddbed;
+}
+.ctexto{
+    font-size: 20px;
+    color: #b56db6;
+
+}
+input{
+    width: 13vw;
+    height: 3vh;
+    border: none;
+    border-radius: 10px;
+
+}
+textarea{
+    border:  none;
+    border-radius: 10px;
+}
+.titulo{
+    color:#a349a4;
+        font-family: "Sevillana", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 50px;
+      
+}
+button{
+    border: none;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    background: #b56db6;
+    cursor: pointer;
+    box-shadow:0px 5px 20px #b56db6;
+}
+/*button{
+  
+    padding: 16px 0px;
+    margin: 25px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 800;
+    letter-spacing: 3px;
+    background: #823a83;
+    cursor: pointer;
+    box-shadow:0px 10px 40px -12px #823a83;
+}*/
